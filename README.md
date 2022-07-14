@@ -1,7 +1,12 @@
-### Hi there 👋
 
-<!--
-**christopher4RY/christopher4RY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ar Kar LIn! 👋
+
+
+
+
+🚀 I'm trying to be a Full Stack Developer.
+
+
 
 Here are some ideas to get you started:
 
