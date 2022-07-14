@@ -1,9 +1,7 @@
 
 # Hi, I'm Ar Kar LIn! 👋
-I'm trying to be a Full Stack Developer.
 
 🚀 I'm trying to be a Full Stack Developer.
-
 
 
 Here are some ideas to get you started:
