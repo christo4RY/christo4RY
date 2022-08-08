@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Laravel**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher4RY)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arkarli03710634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arkarli03710634" height="30" width="40" /></a>
