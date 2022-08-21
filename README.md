@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/arkarli03710634" target="blank"><img src="https://img.shields.io/twitter/follow/arkarli03710634?logo=twitter&style=for-the-badge" alt="arkarli03710634" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** and **Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/christopher4RY](https://github.com/christopher4RY)
 
