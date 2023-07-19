@@ -1,3 +1,5 @@
+![alt text](https://github.com/christo4RY/christo4RY/blob/main/programming.jpg)
+
 <h1 align="center">Hi 👋, I'm Ar Kar Lin</h1>
 <h3 align="center">Web Developer</h3>
 
