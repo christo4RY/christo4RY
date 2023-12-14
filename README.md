@@ -1,4 +1,3 @@
-![alt text](https://github.com/christo4RY/christo4RY/blob/main/339c1dd8ef2f6c8751d7e460e3ff4245.jpg)
 <div style="text-align: center;">
     <img width="100%" src="https://github.com/christo4RY/christo4RY/blob/main/339c1dd8ef2f6c8751d7e460e3ff4245.jpg"/>
 </div>
