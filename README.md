@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/arkarli03710634" target="blank"><img src="https://img.shields.io/twitter/follow/arkarli03710634?logo=twitter&style=for-the-badge" alt="arkarli03710634" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel Deep Drive and Node,Express js**
+- 🌱 I’m currently learning **Laravel Deep Drive, React and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/christo4RY](https://github.com/christo4RY)
 
-- 💬 Ask me about **Laravel and Vue**
+- 💬 Ask me about **Laravel,Vue and React**
 
 - 📫 How to reach me **arkarlin486@gmail.com**
 
