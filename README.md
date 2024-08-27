@@ -1,18 +1,18 @@
 <div style="text-align: center;">
     <img width="100%" src="https://github.com/christo4RY/christo4RY/blob/main/339c1dd8ef2f6c8751d7e460e3ff4245.jpg"/>
 </div>
-<h1 align="center">Hi 👋, I'm Ar Kar Lin (4RY)</h1>
+<h1 align="center">Hi 👋, I'm Ar Kar Lin (Flex)</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christo4ry&label=Profile%20views&color=0e75b6&style=flat" alt="christo4ry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arkarli03710634" target="blank"><img src="https://img.shields.io/twitter/follow/arkarli03710634?logo=twitter&style=for-the-badge" alt="arkarli03710634" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel Deep Drive , React and Next Js**
+- 🌱 I’m currently learning **React and Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/christo4RY](https://github.com/christo4RY)
 
-- 💬 Ask me about **Laravel,Vue and React**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **arkarlin486@gmail.com**
 
