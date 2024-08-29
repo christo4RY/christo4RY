@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React and Next Js**
 
-- 👨‍💻 All of my projects are available at [https://arkarlin-portfolio.vercel.app](https://arkarlin-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://arkarlin.vercel.app](https://arkarlin.vercel.app)
 
 - 💬 Ask me about **Laravel**
 
